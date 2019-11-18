@@ -1,0 +1,24 @@
+{
+  "name": "postgres-toolkit",
+  "version": "0.0.1",
+  "description": "A bunch of usefull information and metrics about postgres activity.",
+  "main": "index.js",
+  "author": "asiforis",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
