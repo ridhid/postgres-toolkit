@@ -4,7 +4,7 @@ Roadmap:
 1. First steps.
    - User stories:
      - As postgres administrator i want to know which activities are going right now.
-     - As postgres administrator i want to konw wich datatabase are in database.
+     - As postgres administrator i want to konw wich datatabase are in postgres.
    - Features sketch:
      - list of activities
      - backend duration for list of activities
@@ -16,7 +16,7 @@ Roadmap:
      - autorization
    - Design
      - sketch of activities list
-2. Nest steps.
+2. Next steps.
    - databases 
      - checkout to table list
      - show circle diagram by space
